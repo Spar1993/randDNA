@@ -14,7 +14,6 @@ int min=0;
 	return "";
 	}
 int max=bases.size()-1;
-git 
 mt19937 eng1(seed);
 uniform_int_distribution<> un(min,max);
 	
@@ -30,3 +29,4 @@ for(int i=0; i<n; i++)
 	
 }
 	
+
